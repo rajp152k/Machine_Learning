@@ -1,0 +1,5 @@
+ipython interactions and comments while learning to preprocess data
+
+incremental learning log:-
+1. handling missing data using imputation
+2. comments on when to use fit, transform and fit_transform methods of the imputer object of an Imputer class
