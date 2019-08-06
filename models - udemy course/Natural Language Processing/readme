@@ -1,1 +1,6 @@
-..
+ONLY one model implemented here:-
+The bag of words
+the original ipynb:- the one without any classification 
+  tags is implemented using the Naïve Bayes 
+  accuracy of 73 %
+rest of them are created with the objective to improve this accuracy
