@@ -1,0 +1,5 @@
+for classification probs only
+
+for regression, mean squared is preferred due to obvious reasons
+
+https://rdipietro.github.io/friendly-intro-to-cross-entropy-loss/
